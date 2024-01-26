@@ -1,0 +1,92 @@
+Employee Name,Position,Consecutive Days Worked,Hours Between Shifts,Single Shift Duration
+"Sparks (Position: Active) worked for 7 consecutive days.
+"Sparks (Position: Active) worked for 7 consecutive days.
+"GaXCes (Position: Active) worked for 7 consecutive days.
+"CaMaXaWE (Position: Active) worked for 7 consecutive days.
+"CaMaXaWE (Position: Active) worked for 7 consecutive days.
+"Arias (Position: Active) worked for 7 consecutive days.
+"Arias (Position: Active) worked for 7 consecutive days.
+"Arias (Position: Active) worked for 7 consecutive days.
+"FeXix (Position: Active) worked for 7 consecutive days.
+"FeXix (Position: Active) worked for 7 consecutive days.
+"HerCEsiXXE (Position: Active) worked for 7 consecutive days.
+"Xee (Position: Active) worked for 7 consecutive days.
+"Xee (Position: Active) worked for 7 consecutive days.
+"Xee (Position: Active) worked for 7 consecutive days.
+"Xee (Position: Active) worked for 7 consecutive days.
+"MAake (Position: Active) worked for 7 consecutive days.
+"MAake (Position: Active) worked for 7 consecutive days.
+"SiWgh (Position: Active) worked for 7 consecutive days.
+"SiWgh (Position: Active) worked for 7 consecutive days.
+"ArEsMigAi (Position: Active) worked for 7 consecutive days.
+"ArEsMigAi (Position: Active) worked for 7 consecutive days.
+"REdrigAez (Position: Active) worked for 7 consecutive days.
+"REdrigAez (Position: Active) worked for 7 consecutive days.
+"MraW (Position: Active) worked for 7 consecutive days.
+"MAcker (Position: Active) worked for 7 consecutive days.
+"MAcker (Position: Active) worked for 7 consecutive days.
+"CaMXEck (Position: Active) worked for 7 consecutive days.
+"MaXeGi (Position: Active) worked for 7 consecutive days.
+"MaXeGi (Position: Active) worked for 7 consecutive days.
+"ErEpeza (Position: Active) worked for 7 consecutive days.
+"ErEpeza (Position: Active) worked for 7 consecutive days.
+"ErEpeza (Position: Active) worked for 7 consecutive days.
+"SavaWg (Position: Active) worked for 7 consecutive days.
+"REdrigAez (Position: Active) worked for 7 consecutive days.
+"EasMCaW (Position: Active) worked for 7 consecutive days.
+"SiWgh (Position: Active) worked for 7 consecutive days.
+"SiWgh (Position: Active) has less than 10 hours between shifts.
+"SiWgh (Position: Active) worked for 7 consecutive days.
+"SiWgh (Position: Active) worked for 7 consecutive days.
+"PaXaciE (Position: Active) worked for 7 consecutive days.
+"ErEzcE (Position: Active) worked for 7 consecutive days.
+"CercadE (Position: Active) worked for 7 consecutive days.
+"CEreira Jr (Position: Active) worked for 7 consecutive days.
+"CEreira Jr (Position: Active) worked for 7 consecutive days.
+"CEreira Jr (Position: Active) worked for 7 consecutive days.
+"PaAXE (Position: Active) worked for 7 consecutive days.
+"CaXdEWadE (Position: Active) worked for 7 consecutive days.
+"CeWdEza (Position: Active) worked for 7 consecutive days.
+"GAeWdia (Position: Active) worked for 7 consecutive days.
+"GAeWdia (Position: Active) worked for 7 consecutive days.
+"GAeWdia (Position: Active) worked for 7 consecutive days.
+"CercadE (Position: Active) worked for 7 consecutive days.
+"CercadE (Position: Active) worked for 7 consecutive days.
+"ZaCEra (Position: Active) worked for 7 consecutive days.
+"Caxies (Position: Active) worked for 7 consecutive days.
+"Caxies (Position: Active) worked for 7 consecutive days.
+"CcRAWWeX (Position: Active) worked for 7 consecutive days.
+"CcRAWWeX (Position: Active) worked for 7 consecutive days.
+"CEMMa (Position: Active) worked for 7 consecutive days.
+"Rivera AXcaWMar (Position: Active) worked for 7 consecutive days.
+"EXivares (Position: Active) worked for 7 consecutive days.
+"WiXXiaCs (Position: Active) worked for 7 consecutive days.
+"WiXXiaCs (Position: Active) worked for 7 consecutive days.
+"CaraGiXXa (Position: Active) worked for 7 consecutive days.
+"GrACfieXd (Position: Active) worked for 7 consecutive days.
+"GrACfieXd (Position: Active) worked for 7 consecutive days.
+"ArrAMia (Position: Active) worked for 7 consecutive days.
+"DiXXard (Position: Active) worked for 7 consecutive days.
+"XEpez WAWez (Position: Active) worked for 7 consecutive days.
+"DeXgadiXXE REdarMe (Position: Active) worked for 7 consecutive days.
+"DeXgadiXXE REdarMe (Position: Active) worked for more than 14 hours in a single shift.
+"FaGiaW CiraWda (Position: Active) worked for 7 consecutive days.
+"HaCiXMEW (Position: Active) worked for 7 consecutive days.
+"HaCiXMEW (Position: Active) worked for 7 consecutive days.
+"HAWMer (Position: Active) worked for 7 consecutive days.
+"HAWMer (Position: Active) worked for 7 consecutive days.
+"AXcEcer (Position: Active) worked for 7 consecutive days.
+"IWGEAa (Position: Active) worked for 7 consecutive days.
+"CesiWa CEreWE (Position: Active) worked for 7 consecutive days.
+"CesiWa CEreWE (Position: Active) worked for 7 consecutive days.
+"HEGGie ErMega (Position: Active) worked for 7 consecutive days.
+"EsMrada (Position: Active) worked for 7 consecutive days.
+"EsMrada (Position: Active) worked for 7 consecutive days.
+"CAevas ZavaXa (Position: Active) worked for 7 consecutive days.
+"SaWchez (Position: Active) worked for 7 consecutive days.
+"VasqAez (Position: Active) worked for 7 consecutive days.
+"GAMierrez (Position: Active) worked for 7 consecutive days.
+"GAMierrez (Position: Active) worked for 7 consecutive days.
+"HerWaWdez SaWchez (Position: Active) worked for 7 consecutive days.
+"De XEs SaWMEs (Position: Active) worked for 7 consecutive days.
+"XariEs (Position: Active) worked for 7 consecutive days.
